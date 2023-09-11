@@ -1,6 +1,6 @@
 {
   "name": "placemik-ui-lib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "placemik-ui-lib",
   "scripts": {
     "rollup": "rollup -c",
@@ -51,6 +51,7 @@
     "classnames": "^2.3.2",
     "jest-environment-jsdom": "^29.6.4",
     "tailwindcss-border-gradient-radius": "^3.0.1",
+    "ts-jest": "^29.1.1",
     "tslib": "^2.6.2"
   }
 }
